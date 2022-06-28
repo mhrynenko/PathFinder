@@ -7,7 +7,7 @@ PathFinder is a program that finds all the shortest paths between all the points
 - prints the paths using the FIFO (first) rule for the islands to the standard output. 
 
 
-For realization I choose Floyd–Warshall algorithm that is used for finding shortest paths in a directed weighted graph with positive or negative edge weights (but with no negative cycles).
+For realization I chose Floyd–Warshall algorithm that is used for finding shortest paths in a directed weighted graph with positive or negative edge weights (but with no negative cycles).
 
 #### Some examples of working
 **Input:**  
