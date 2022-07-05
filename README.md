@@ -43,5 +43,10 @@ D-E,4
 </p>
 
 ### How to start
-This program was developed on the MacOS, so it works correctly there.   
-In folder with cloned project use `make` to compile project. Start program with `./pathfinder [filename]` where 'filename' is a file with information about islands and bridges.
+*This program was developed on the MacOS, so it works correctly there.*  
+
+In folder with cloned project use `make` to compile project. Start program with `./pathfinder [filename]` where 'filename' is a file with information about islands and bridges.  
+
+To delete the program - `make uninstall`   
+To delete all 'obj' files - `make clean`   
+To reinstall the program - `make reinstall`
